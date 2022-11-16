@@ -1,0 +1,161 @@
+.body1{
+    font-family: 'Josefin Sans', sans-serif;
+    border-style: double;
+}
+#ip0 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#ip1 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}#ip2 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#ip3 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#ip4 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+.bb{
+
+    border-radius: 15px;
+    padding: 14px;
+    width: 200px;
+    height: 5px;
+}   
+#ip5 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#ip6 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#ip7 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#ip8 {
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#ip9
+{
+    text-align: center;
+    font-size: medium;
+    border-radius: 15px;
+    border-color: lightblue);
+    border-width: medium;
+    padding: 13px;
+    
+    
+
+}
+.txt1{
+    color: green;
+}
+.tab1{
+    ;
+}
+fieldset{
+    border-style: double;
+    border-color: blue;
+   background-color: lightblue;
+   }
+legend{
+    display: block;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 2px solid pink;
+    background-color:purple;
+    color:white;
+}
+select{
+    border-radius: 15px;
+
+    padding: 5px;
+    
+}
+.image{
+    height: 150;
+    width :150;
+}
+.img7{
+    width: 60px;
+    height: 25px;
+    background-color: lightblue;
+
+}
+.heading{
+
+}
+.fset{
+    
+    border-style: double;
+    height: 90px;
+    width: 15px;
+}
+.userl{
+    text-align: center;
+    color: darkblue;
+}
+#lgname{
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+#lgnames{
+    border-radius: 15px;
+    padding: 13px;
+    width: 200px;
+    height: 5px;
+}
+.divv{
+    border: double;
+    border-radius: 15px;
+    background-color:rgb(128, 92, 161);
+    width: 27%;
+    height: 17%;
+    position: relative;
+    left: 30rem;
+    
+}
+.tbl{
+
+    margin-left: auto;
+    margin-right: auto;
+}
+.reg{
+    border-radius: 15px;
+    padding: 13px;
+    width: 150px;
+    height: 5px;
+     background-color:lightslategrey;    
+}
+.search{
+    right: 13em;
+}
